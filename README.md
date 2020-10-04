@@ -1,5 +1,7 @@
 # Web Templates
-Web templates is a website boilerplate provider. Powerd by MySQL database and PHP.
+Web templates is a website boilerplate provider. Powerd by MySQL database and PHP. <br />
+
+powerd by: PHP, HTML, and CSS <br />
 
 Visit the site at: https://jacobportfolio.com/portfolio/webtemplate/public/index.php
 
